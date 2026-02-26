@@ -1769,7 +1769,7 @@ class EncodeExplorer
 			printf($this->getString("page_load_time")." | ", (microtime(TRUE) - $_START_TIME)*1000);
 		}
 		?>
-		<a href="http://encode-explorer.siineiolekala.net" class="text-decoration-none text-muted">Encode Explorer</a>
+		<a href="http://encode-explorer.siineiolekala.net" class="text-decoration-none text-muted">Encode Explorer</a> | <a href="https://yucdu.com" class="text-decoration-none text-muted">Customized by YucDu</a>
 	</div>
 
 	<?php } // End of access allowed else ?>
